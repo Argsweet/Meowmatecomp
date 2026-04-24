@@ -13,7 +13,3 @@ A Tinder-style web app where you can swipe through adoptable cats. Swipe right t
 ## 🔧 Tech
 
 HTML, CSS, JavaScript
-
-## 📧 Contact
-
-Created by [Your Name] – your.email@example.com
